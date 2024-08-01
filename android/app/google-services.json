@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858228339608",
+    "project_id": "neww-fe7ea",
+    "storage_bucket": "neww-fe7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858228339608:android:3ebd536829972f1797f1ed",
+        "android_client_info": {
+          "package_name": "com.example.resturantt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vrtIwMsnakGu38SNm_s0poXc3cFV_2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
